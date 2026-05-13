@@ -1,0 +1,19 @@
+<svg width="100%" viewBox="0 0 680 420" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Figura Ultima - Experimental</title>
+<rect width="680" height="420" fill="#1A0E0E"/>
+<rect x="0" y="0" width="680" height="34" fill="#7A1A1A" opacity="0.7"/>
+<text x="340" y="21" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#F5C0C0" letter-spacing="3">EXPERIMENTAL - ADVERSARIAL REVIEW REQUIRED - NOT FOR CITATION</text>
+<line x1="340" y1="50" x2="340" y2="400" stroke="#8B1A1A" stroke-width="0.6" opacity="0.5" stroke-dasharray="4 4"/>
+<line x1="120" y1="200" x2="560" y2="200" stroke="#8B1A1A" stroke-width="0.4" opacity="0.4" stroke-dasharray="3 5"/>
+<ellipse cx="340" cy="200" rx="160" ry="100" fill="none" stroke="#993535" stroke-width="0.7" opacity="0.35"/>
+<ellipse cx="340" cy="200" rx="120" ry="75" fill="none" stroke="#B04040" stroke-width="0.5" opacity="0.3"/>
+<ellipse cx="340" cy="200" rx="80" ry="50" fill="none" stroke="#C85050" stroke-width="0.4" opacity="0.25"/>
+<circle cx="310" cy="175" r="3" fill="#8B1A1A" opacity="0.6"/><circle cx="370" cy="175" r="3" fill="#8B1A1A" opacity="0.6"/>
+<circle cx="340" cy="160" r="2" fill="#8B1A1A" opacity="0.5"/>
+<text x="340" y="110" text-anchor="middle" font-family="Georgia, serif" font-size="42" font-weight="bold" fill="#C85050" letter-spacing="1">FIGURA</text>
+<text x="340" y="152" text-anchor="middle" font-family="Georgia, serif" font-size="42" font-weight="bold" fill="#D47070" letter-spacing="1">ULTIMA</text>
+<line x1="220" y1="166" x2="460" y2="166" stroke="#993535" stroke-width="0.7" opacity="0.5"/>
+<text x="340" y="310" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#C85050" font-style="italic" opacity="0.8">Textile - body-cloth geometry - photothermal modelling</text>
+<text x="340" y="360" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#993535" opacity="0.7">TYPE C/D/E - Richard Steven Vallance 2026</text>
+<rect x="8" y="8" width="664" height="404" rx="2" fill="none" stroke="#8B1A1A" stroke-width="0.6" opacity="0.4"/>
+</svg>

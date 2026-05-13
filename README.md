@@ -1,3 +1,5 @@
+![⚠ Figura Ultima — EXPERIMENTAL REPOSITORY](assets/covers/figura_ultima_cover_v1.svg)
+
 # Figura Ultima
 
 ## ⚠ EXPERIMENTAL REPOSITORY — UNDER ADVERSARIAL REVIEW ⚠

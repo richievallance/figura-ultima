@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1100" viewBox="0 0 800 1100">
+  <defs>
+    <radialGradient id="linenBg" cx="50%" cy="30%" r="70%">
+      <stop offset="0%" stop-color="#1a1510"/>
+      <stop offset="100%" stop-color="#0a0806"/>
+    </radialGradient>
+    <radialGradient id="projGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#c8a200" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#c8a200" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Dark linen background -->
+  <rect width="800" height="1100" fill="url(#linenBg)"/>
+  
+  <!-- Linen texture lines -->
+  <g stroke="#2a2015" stroke-width="0.5" opacity="0.4">
+    <line x1="0" y1="50" x2="800" y2="50"/>
+    <line x1="0" y1="100" x2="800" y2="100"/>
+    <line x1="0" y1="150" x2="800" y2="150"/>
+    <line x1="0" y1="200" x2="800" y2="200"/>
+    <line x1="0" y1="250" x2="800" y2="250"/>
+    <line x1="0" y1="300" x2="800" y2="300"/>
+    <line x1="0" y1="350" x2="800" y2="350"/>
+    <line x1="0" y1="400" x2="800" y2="400"/>
+    <line x1="0" y1="450" x2="800" y2="450"/>
+    <line x1="0" y1="500" x2="800" y2="500"/>
+    <line x1="0" y1="550" x2="800" y2="550"/>
+    <line x1="0" y1="600" x2="800" y2="600"/>
+  </g>
+
+  <!-- Projection geometry — light cone from above -->
+  <polygon points="400,80 150,550 650,550" fill="#c8a200" opacity="0.04"/>
+  <line x1="400" y1="80" x2="150" y2="550" stroke="#c8a200" stroke-width="1.5" opacity="0.3"/>
+  <line x1="400" y1="80" x2="650" y2="550" stroke="#c8a200" stroke-width="1.5" opacity="0.3"/>
+  
+  <!-- Light source point -->
+  <circle cx="400" cy="80" r="12" fill="url(#projGlow)"/>
+  <circle cx="400" cy="80" r="5" fill="#c8a200" opacity="0.8"/>
+  <circle cx="400" cy="80" r="2" fill="white" opacity="0.9"/>
+
+  <!-- Projection lines — geometric -->
+  <line x1="400" y1="80" x2="300" y2="450" stroke="#c8a200" stroke-width="0.5" opacity="0.2" stroke-dasharray="4,8"/>
+  <line x1="400" y1="80" x2="400" y2="550" stroke="#c8a200" stroke-width="0.5" opacity="0.25" stroke-dasharray="4,8"/>
+  <line x1="400" y1="80" x2="500" y2="450" stroke="#c8a200" stroke-width="0.5" opacity="0.2" stroke-dasharray="4,8"/>
+
+  <!-- Shroud figure silhouette — simplified human form -->
+  <g opacity="0.35" fill="#c8a200">
+    <!-- Head -->
+    <ellipse cx="400" cy="280" rx="35" ry="42"/>
+    <!-- Shoulders/torso -->
+    <ellipse cx="400" cy="390" rx="80" ry="95"/>
+    <!-- Arms suggestion -->
+    <rect x="295" y="330" width="35" height="100" rx="15" opacity="0.7"/>
+    <rect x="470" y="330" width="35" height="100" rx="15" opacity="0.7"/>
+  </g>
+
+  <!-- 7.1 ratio annotation -->
+  <line x1="180" y1="240" x2="180" y2="490" stroke="#c8a200" stroke-width="1" opacity="0.4"/>
+  <line x1="170" y1="240" x2="190" y2="240" stroke="#c8a200" stroke-width="1" opacity="0.4"/>
+  <line x1="170" y1="490" x2="190" y2="490" stroke="#c8a200" stroke-width="1" opacity="0.4"/>
+  <text x="155" y="370" font-family="Georgia, serif" font-size="11" fill="#c8a200" text-anchor="middle" opacity="0.6" transform="rotate(-90 155 370)">7.1 RATIO</text>
+
+  <!-- Horizontal cloth line -->
+  <line x1="60" y1="550" x2="740" y2="550" stroke="#c8a200" stroke-width="2" opacity="0.4"/>
+  
+  <!-- Gold thin border -->
+  <rect x="20" y="20" width="760" height="1060" fill="none" stroke="#c8a200" stroke-width="1.5" opacity="0.5"/>
+
+  <!-- Title block -->
+  <line x1="80" y1="620" x2="720" y2="620" stroke="#c8a200" stroke-width="1" opacity="0.5"/>
+  
+  <text x="400" y="670" font-family="Georgia, serif" font-size="52" fill="#c8a200" text-anchor="middle" font-weight="bold" letter-spacing="3">FIGURA</text>
+  <text x="400" y="725" font-family="Georgia, serif" font-size="44" fill="#c8a200" text-anchor="middle" font-weight="bold" letter-spacing="4">ULTIMA</text>
+  
+  <line x1="80" y1="745" x2="720" y2="745" stroke="#c8a200" stroke-width="0.5" opacity="0.4"/>
+  
+  <text x="400" y="782" font-family="Georgia, serif" font-size="15" fill="#8a7050" text-anchor="middle" font-style="italic">The Turin Shroud Authorship Thesis</text>
+  <text x="400" y="808" font-family="Georgia, serif" font-size="12" fill="#6a5535" text-anchor="middle" letter-spacing="2">Leonardo da Vinci · c. 1476–1478</text>
+
+  <!-- HOLD notice -->
+  <rect x="250" y="840" width="300" height="32" rx="4" fill="none" stroke="#8a4a20" stroke-width="1" opacity="0.6"/>
+  <text x="400" y="861" font-family="Georgia, serif" font-size="12" fill="#8a4a20" text-anchor="middle" letter-spacing="2">HOLD — ADVERSARIAL REVIEW</text>
+
+  <!-- Author -->
+  <text x="400" y="940" font-family="Georgia, serif" font-size="14" fill="#8a7050" text-anchor="middle">Richard Steven Vallance</text>
+  <text x="400" y="962" font-family="Georgia, serif" font-size="11" fill="#5a4525" text-anchor="middle">The People Focused Group · Doncaster, UK · 2026</text>
+
+  <text x="400" y="1058" font-family="Georgia, serif" font-size="10" fill="#6a5535" text-anchor="middle" letter-spacing="3" opacity="0.6">© 2026 RICHARD STEVEN VALLANCE</text>
+</svg>

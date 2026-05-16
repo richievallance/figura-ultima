@@ -1,79 +1,61 @@
-# Figura Ultima
-## Leonardo da Vinci and the Turin Shroud — Doctoral Thesis
+# FIGURA ULTIMA
+## The Turin Shroud Authorship Thesis
 
-**Author:** Richard Steven Vallance (Da Valenca)  
-**Affiliation:** The People Focused Group, Doncaster, UK  
-**Status:** 🔴 EXPERIMENTAL — Under adversarial review. No DOI. Do not cite as finalised.  
-**Version:** v0.8 — Full thesis and short thesis deposited  
+**Author:** Richard Steven Vallance
+**Affiliation:** The People Focused Group (PFG), Doncaster, UK
+**Status:** HOLD — Adversarial Review Required
+**Version:** v0.8 — Full Thesis Draft
 **Last Updated:** May 2026
 
 ---
 
 ## Abstract
 
-This thesis argues that Leonardo da Vinci created the Turin Shroud circa 1476–1478, using an inverted plaster relief, glass-slide lightbox, and a combination of optical projection and photochemical darkening on linen. Central original contributions include: the 7.1 Scalar Ratio (Vitruvian Man proportions × 7.1 = Turin Shroud dimensions, derivable from Fibonacci compound proportion); the Two-Half Projection explanation for the butterfly hand anomaly (bilateral right-hand duplication); and the Fibonacci Fold Proof addressing Shroud storage geometry. Carlo Vecce's 2023 discovery regarding Leonardo's mother and the Da Vinci DNA Project's January 2026 haplogroup findings are integrated. Ottoman letters (Richter §§1336–7) are treated as confirming a Leonardo presence in the Armenia/Syria region during the gap years, the same window as the proposed production date.
+This repository presents the *Figura Ultima* thesis: that Leonardo da Vinci created the Turin Shroud circa 1476–1478, using an inverted plaster relief, a glass slide lightbox, and an Archimedes concave mirror flash exposure. The thesis is grounded in a 7.1 scalar ratio proof demonstrating correspondence between the Shroud figure and Leonardo's Vitruvian Man, biographical gap evidence placing Leonardo in the relevant location and period, and a DNA falsifiability hypothesis permitting empirical testing. This is a **speculative scholarly hypothesis** requiring adversarial review before public claim.
 
 ---
 
-## ⚠️ Evidence and Caution Statement
+## Evidence and Caution Statement
 
-**This repository contains experimental research under adversarial review.**
-
-- The 7.1 Scalar Ratio is a documented mathematical finding (Tier A) but its interpretive conclusion (Shroud authorship) is Tier C — a hypothesis under investigation.
-- The Two-Half Projection is Tier B — strongly supported by geometric analysis.
-- The Fibonacci Fold Proof is Tier B.
-- The textile patterning note (Madrid Codex I) establishes Leonardo's textile knowledge but does **not** by itself prove Shroud involvement. This boundary is locked.
-- Mechanism files (A–Y) are explicitly experimental. They are hypotheses, not claims.
-- No DOI will be assigned until peer review and formal adversarial assessment are complete.
+This repository contains **Tier C speculative proposals** supported by geometric and biographical circumstantial evidence. The 7.1 scalar ratio is a Tier B measurement finding. Readers are advised this thesis has not undergone adversarial peer review. Do not cite as established fact.
 
 ---
 
-## Deposited Content
+## Canonical Document
 
-| File | Description | Status |
-|---|---|---|
-| `FIGURA_ULTIMA_Full_Thesis_RSV_2026.docx` | Full doctoral thesis (~183KB) | ✓ Deposited |
-| `FIGURA_ULTIMA_Thesis_RSV_2026.docx` | Short thesis (~104KB) | ✓ Deposited |
-| `experimental_mechanisms/` | Mechanisms A–Y (experimental hypotheses) | ✓ Deposited |
-| `experimental_mechanisms/madrid_textile_evidence_note.md` | Textile evidence scope note (locked boundary) | ✓ Deposited |
+**FIGURA_ULTIMA_Full_Thesis_RSV_2026.docx** is the canonical version.
+FIGURA_ULTIMA_Thesis_RSV_2026.docx is a superseded earlier draft retained for archival reference.
+
+---
+
+## Contents
+
+| File | Description |
+|---|---|
+| FIGURA_ULTIMA_Full_Thesis_RSV_2026.docx | CANONICAL full thesis |
+| FIGURA_ULTIMA_Thesis_RSV_2026.docx | SUPERSEDED earlier draft |
+| NAVIGATION.md | Cross-repository navigation |
 
 ---
 
 ## Citation
 
-```
-Vallance, R.S. (2026). Figura Ultima: Leonardo da Vinci and the Turin Shroud.
-Da Valenca Archive. The People Focused Group, Doncaster, UK.
-https://github.com/richievallance/figura-ultima
-DOI: Pending adversarial review
-```
-
----
-
-## Licence
-
-© 2026 Richard Steven Vallance. All Intellectual Property Reserved.  
-Licence: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+Vallance, R.S. (2026). *Figura Ultima: The Turin Shroud Authorship Thesis*. Da Valenca Archive. The People Focused Group, Doncaster, UK. https://github.com/richievallance/figura-ultima
 
 ---
 
 ## DOI Status
 
-**No DOI assigned.** DOI withheld pending: (1) external adversarial review of principal claims; (2) completion of evidence tier audit. Do not cite as published research.
+HOLD — adversarial review required before publication
 
 ---
 
 ## Related Repositories
 
-| Repository | Role |
-|---|---|
-| [da-vinci-ultimatium](https://github.com/richievallance/da-vinci-ultimatium) | Master parent |
-| [solarscorch](https://github.com/richievallance/solarscorch) | Solar geometry companion paper |
-| [turin-shroud-white-paper](https://github.com/richievallance/turin-shroud-white-paper) | Predecessor draft archive |
-| [corpus-leonardianum](https://github.com/richievallance/corpus-leonardianum) | Codicological infrastructure |
+- [da-vinci-mechanica](https://github.com/richievallance/da-vinci-mechanica) — Madrid Codex I reconstruction
+- [corpus-leonardianum](https://github.com/richievallance/corpus-leonardianum) — Infrastructure portal
+- [solarscorch](https://github.com/richievallance/solarscorch) — Solar geometry studies
 
 ---
 
-## Release History
-
-- **2026-05**: Full thesis and short thesis deposited. Mechanisms A–Y deposited as experimental_mechanisms/. Textile evidence note locked. EXPERIMENTAL status confirmed.
+*© 2026 Richard Steven Vallance. All Intellectual Property Reserved.*
